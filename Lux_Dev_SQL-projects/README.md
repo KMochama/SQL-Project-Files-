@@ -35,7 +35,7 @@ SQL-projects/
 
 ## 📸 Database Schema (ER Diagram)
 
-![Schema](<img width="601" height="688" alt="image" src="https://github.com/user-attachments/assets/f94c444c-f72e-477f-a18e-cfee6943fb78" />)
+![Schema]<img width="601" height="688" alt="image" src="https://github.com/user-attachments/assets/f94c444c-f72e-477f-a18e-cfee6943fb78" />
 
 ---
 
