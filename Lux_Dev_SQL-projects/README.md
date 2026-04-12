@@ -35,13 +35,13 @@ SQL-projects/
 
 ## 📸 Database Schema (ER Diagram)
 
-![Schema]<img width="601" height="688" alt="image" src="https://github.com/user-attachments/assets/f94c444c-f72e-477f-a18e-cfee6943fb78" />
+<img width="601" height="688" alt="image" src="https://github.com/user-attachments/assets/f94c444c-f72e-477f-a18e-cfee6943fb78" />
 
 ---
 
 ## 🗃️ Tables in DBeaver
 
-![Tables](<img width="1284" height="766" alt="image" src="https://github.com/user-attachments/assets/425bc0ec-9733-4828-96e1-542f1c52c6f2" />)
+<img width="1284" height="766" alt="image" src="https://github.com/user-attachments/assets/425bc0ec-9733-4828-96e1-542f1c52c6f2" />
 
 ---
 
@@ -91,9 +91,9 @@ WHERE first_name LIKE 'A%';
 
 ## 📸 Query Results Example
 
-![Query Results](<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/39b22ccc-063f-4923-a801-04829e912e47" />)
-![Query Results](<img width="1101" height="486" alt="image" src="https://github.com/user-attachments/assets/56124214-bc75-4ead-95df-6d46b2effec6" />)
-![Query Results](<img width="1070" height="479" alt="image" src="https://github.com/user-attachments/assets/d1445413-8fa5-4c86-86a1-5cf2b901754b" />)
+<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/39b22ccc-063f-4923-a801-04829e912e47" />
+<img width="1101" height="486" alt="image" src="https://github.com/user-attachments/assets/56124214-bc75-4ead-95df-6d46b2effec6" />
+<img width="1070" height="479" alt="image" src="https://github.com/user-attachments/assets/d1445413-8fa5-4c86-86a1-5cf2b901754b" />
 
 ---
 
@@ -114,7 +114,7 @@ FROM exam_results;
 
 ## 📸 CASE WHEN Output
 
-![CASE WHEN](<img width="1122" height="781" alt="image" src="https://github.com/user-attachments/assets/d50ee563-e1be-4e49-a8ce-807bd12caad7" />)
+<img width="1122" height="781" alt="image" src="https://github.com/user-attachments/assets/d50ee563-e1be-4e49-a8ce-807bd12caad7" />
 
 ---
 
