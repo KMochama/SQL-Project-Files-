@@ -9,6 +9,7 @@ It demonstrates SQL fundamentals, including schema design, data manipulation, fi
 ## 🗂️ Project Structure
 
 SQL-projects/
+
    └── assignment/
          ├── kevin_osioma_sql_assignment.sql
          ├── article.md
@@ -93,7 +94,8 @@ WHERE first_name LIKE 'A%';
 
 <img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/39b22ccc-063f-4923-a801-04829e912e47" />
 <img width="1101" height="486" alt="image" src="https://github.com/user-attachments/assets/56124214-bc75-4ead-95df-6d46b2effec6" />
-<img width="1070" height="479" alt="image" src="https://github.com/user-attachments/assets/d1445413-8fa5-4c86-86a1-5cf2b901754b" />
+<img width="1082" height="482" alt="image" src="https://github.com/user-attachments/assets/e8169b3f-163c-4d9a-b8b7-a17421e83652" />
+
 
 ---
 
